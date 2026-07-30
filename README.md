@@ -1,6 +1,4 @@
-# Title
-
-Modeling the Relationship Between Study Time and Academic Performance Using Mathematical and Computational Methods
+# Modeling the Relationship Between Study Time and Academic Performance Using Mathematical and Computational Methods
 
 ## Research Question
 
