@@ -20,3 +20,7 @@
 - On average, how many total hours do you study for a major exam in the days leading up to it ?
 
 ## LifeStyle Variables
+- On average, how many hours of sleep do you get per night during the academic term ?
+- How many hours do you work at a paid job per week ?
+- On an average, what percentage of your scheduled classes do you attend ?
+- Do you regularly participate in off campus activities (eg. clubs, sports, volunteering) ? 
