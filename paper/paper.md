@@ -7,7 +7,7 @@ A commom misconception among students is that academic success is directly propo
 While dedicated practice is essential for mastery, extended hours of studying can and would lead to exhaustion, reduced focus, and ultimately a break in performance. 
 
 ### 3. Literature Review
-
+Previous studies show that academic success isn't proportional to the time spent studying. 
 
 ### 4. Methodology
 
